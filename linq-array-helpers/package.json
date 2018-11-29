@@ -1,0 +1,27 @@
+{
+  "name": "linq-array-helpers",
+  "version": "1.0.0",
+  "description": "To add package use require('linq-array-helpers')",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyMokin/linq-array-helpers.git"
+  },
+  "keywords": [
+    "linq",
+    "linq js",
+    "js",
+    "linqjs",
+    "array",
+    "helpers"
+  ],
+  "author": "Sergey Mokin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyMokin/linq-array-helpers/issues"
+  },
+  "homepage": "https://github.com/SergeyMokin/linq-array-helpers#readme"
+}
